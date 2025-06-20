@@ -54,10 +54,7 @@ The system provides high accuracy with minimal computational resources, making i
 - **Optimizer:** Adam (Adaptive learning rate)
 - Confusion Matrix and Performance Metrics:
   
-  ![Confusion Matrix](results/confusion_matrix.png)
-  ![Accuracy Graph](results/accuracy_graph.png)
 
----
 
 ## 💻 How to Run
 
